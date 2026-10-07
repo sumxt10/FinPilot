@@ -68,7 +68,8 @@ orchestrator composes the roles:
 | 11 | `agents/orchestrator_agent.py` | Planner → Executor agents → Reviewer guardrail, with trace |
 
 The remaining role files follow the same `*_agent.py` naming convention;
-`shared.py` contains common constants and implementation helpers.
+`shared_agent.py` contains shared constants and RAG/LLM helpers. Planning
+utilities are implemented in `planning_agent.py`.
 
 Advanced: goal planning, car-purchase simulation, Financial Twin (job loss / raise / loan), investment readiness.
 
