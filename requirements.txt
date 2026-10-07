@@ -1,0 +1,8 @@
+streamlit>=1.35
+pandas
+numpy
+plotly
+requests
+pdfplumber
+python-dotenv
+mcp>=1.0.0

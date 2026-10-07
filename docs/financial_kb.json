@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Emergency fund",
+    "content": "A strong emergency fund covers 6 months of essential expenses and protects against income shocks."
+  },
+  {
+    "title": "Savings rate",
+    "content": "A healthy savings rate is at least 20% of monthly income, with a goal of gradual increase each year."
+  },
+  {
+    "title": "Debt management",
+    "content": "Keep recurring debt at or below 30% to 35% of monthly income for sustainable cash flow."
+  },
+  {
+    "title": "Subscription cleanup",
+    "content": "Unused subscriptions should be canceled if not consumed for 90 days or more."
+  },
+  {
+    "title": "Cash-flow risk",
+    "content": "Maintain a minimum balance buffer and track spikes in essentials, utilities, and recurring charges."
+  },
+  {
+    "title": "Budgeting",
+    "content": "Needs around 50%, wants around 30%, savings or debt reduction around 20% of income."
+  },
+  {
+    "title": "Anomaly detection",
+    "content": "Large one-off payments, duplicate charges, or sudden category spikes may signal fraud or billing errors."
+  }
+]

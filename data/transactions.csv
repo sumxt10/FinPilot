@@ -1,0 +1,578 @@
+date,description,amount,type,true_category
+2026-01-01,Salary - ACME Corp,50000,credit,Income
+2026-01-02,HP Pump Fuel,521,debit,Transportation
+2026-01-02,HP Pump Fuel,478,debit,Transportation
+2026-01-03,House Rent,15000,debit,Bills
+2026-01-04,Uber,417,debit,Transportation
+2026-01-04,Zomato,602,debit,Food & Dining
+2026-01-05,Car Loan EMI,5000,debit,Debt/EMI
+2026-01-06,Zerodha SIP,5000,debit,Investments
+2026-01-07,Swiggy,324,debit,Food & Dining
+2026-01-07,Ajio,1893,debit,Shopping
+2026-01-07,Jio Broadband,999,debit,Bills
+2026-01-08,Swiggy,562,debit,Food & Dining
+2026-01-08,Netflix,649,debit,Subscriptions
+2026-01-09,Spotify,119,debit,Subscriptions
+2026-01-10,ChatGPT Plus,1700,debit,Subscriptions
+2026-01-11,Zomato,482,debit,Food & Dining
+2026-01-11,Cult Gym Membership,1000,debit,Subscriptions
+2026-01-12,Uber,169,debit,Transportation
+2026-01-12,Electricity Board,1800,debit,Bills
+2026-01-14,Swiggy,569,debit,Food & Dining
+2026-01-14,BigBasket Groceries,2200,debit,Food & Dining
+2026-01-14,Cafe Coffee Day,315,debit,Food & Dining
+2026-01-14,Uber,193,debit,Transportation
+2026-01-18,Uber,212,debit,Transportation
+2026-01-18,Uber,180,debit,Transportation
+2026-01-19,Amazon,1767,debit,Shopping
+2026-01-19,Uber,216,debit,Transportation
+2026-01-19,HP Pump Fuel,500,debit,Transportation
+2026-01-19,Swiggy,539,debit,Food & Dining
+2026-01-19,Uber,277,debit,Transportation
+2026-01-21,Swiggy,317,debit,Food & Dining
+2026-01-21,Swiggy,575,debit,Food & Dining
+2026-01-27,Swiggy,467,debit,Food & Dining
+2026-01-28,HP Pump Fuel,467,debit,Transportation
+2026-02-01,Salary - ACME Corp,53000,credit,Income
+2026-02-02,Uber,278,debit,Transportation
+2026-02-02,Flipkart,2073,debit,Shopping
+2026-02-03,House Rent,15000,debit,Bills
+2026-02-03,Swiggy,542,debit,Food & Dining
+2026-02-03,Uber,167,debit,Transportation
+2026-02-05,Car Loan EMI,5000,debit,Debt/EMI
+2026-02-06,Zerodha SIP,5000,debit,Investments
+2026-02-07,Jio Broadband,999,debit,Bills
+2026-02-08,Netflix,649,debit,Subscriptions
+2026-02-08,Zomato,637,debit,Food & Dining
+2026-02-09,Spotify,119,debit,Subscriptions
+2026-02-09,Uber,362,debit,Transportation
+2026-02-10,ChatGPT Plus,1700,debit,Subscriptions
+2026-02-10,Ajio,2316,debit,Shopping
+2026-02-11,Zomato,530,debit,Food & Dining
+2026-02-11,Cafe Coffee Day,579,debit,Food & Dining
+2026-02-11,Cult Gym Membership,1000,debit,Subscriptions
+2026-02-12,Electricity Board,1750,debit,Bills
+2026-02-14,BigBasket Groceries,2400,debit,Food & Dining
+2026-02-14,Zomato,667,debit,Food & Dining
+2026-02-14,HP Pump Fuel,455,debit,Transportation
+2026-02-15,Myntra,844,debit,Shopping
+2026-02-15,Dominos,591,debit,Food & Dining
+2026-02-15,Dominos,433,debit,Food & Dining
+2026-02-16,Dominos,653,debit,Food & Dining
+2026-02-18,Cafe Coffee Day,677,debit,Food & Dining
+2026-02-19,HP Pump Fuel,490,debit,Transportation
+2026-02-19,Uber,353,debit,Transportation
+2026-02-19,Dominos,548,debit,Food & Dining
+2026-02-20,Amazon,1511,debit,Shopping
+2026-02-20,Uber,374,debit,Transportation
+2026-02-20,Apollo Pharmacy,988,debit,Healthcare
+2026-02-22,HP Pump Fuel,459,debit,Transportation
+2026-02-22,Myntra,546,debit,Shopping
+2026-02-23,Uber,153,debit,Transportation
+2026-02-23,Uber,299,debit,Transportation
+2026-02-25,HP Pump Fuel,521,debit,Transportation
+2026-02-25,Zomato,321,debit,Food & Dining
+2026-03-01,Salary - ACME Corp,56000,credit,Income
+2026-03-02,Uber,217,debit,Transportation
+2026-03-03,House Rent,15000,debit,Bills
+2026-03-03,Uber,226,debit,Transportation
+2026-03-04,Uber,294,debit,Transportation
+2026-03-04,Amazon,1660,debit,Shopping
+2026-03-04,Uber,366,debit,Transportation
+2026-03-05,Amazon,1244,debit,Shopping
+2026-03-05,Car Loan EMI,5000,debit,Debt/EMI
+2026-03-05,Zomato,483,debit,Food & Dining
+2026-03-05,HP Pump Fuel,538,debit,Transportation
+2026-03-05,Zomato,617,debit,Food & Dining
+2026-03-05,Swiggy,370,debit,Food & Dining
+2026-03-06,Zerodha SIP,5000,debit,Investments
+2026-03-06,Cafe Coffee Day,485,debit,Food & Dining
+2026-03-07,Jio Broadband,999,debit,Bills
+2026-03-08,Swiggy,528,debit,Food & Dining
+2026-03-08,Netflix,649,debit,Subscriptions
+2026-03-09,Cafe Coffee Day,463,debit,Food & Dining
+2026-03-09,Spotify,119,debit,Subscriptions
+2026-03-10,Swiggy,354,debit,Food & Dining
+2026-03-10,ChatGPT Plus,1700,debit,Subscriptions
+2026-03-11,Cult Gym Membership,1000,debit,Subscriptions
+2026-03-12,Electricity Board,1900,debit,Bills
+2026-03-13,Uber,321,debit,Transportation
+2026-03-13,Cafe Coffee Day,321,debit,Food & Dining
+2026-03-13,Uber,323,debit,Transportation
+2026-03-14,Dominos,592,debit,Food & Dining
+2026-03-14,BigBasket Groceries,2500,debit,Food & Dining
+2026-03-15,Uber,203,debit,Transportation
+2026-03-15,Uber,406,debit,Transportation
+2026-03-18,Dominos,350,debit,Food & Dining
+2026-03-19,HP Pump Fuel,490,debit,Transportation
+2026-03-20,HP Pump Fuel,533,debit,Transportation
+2026-03-21,Uber,325,debit,Transportation
+2026-03-22,Cafe Coffee Day,398,debit,Food & Dining
+2026-03-22,Udemy Course,1700,debit,Education
+2026-03-24,Uber,147,debit,Transportation
+2026-03-27,Zomato,414,debit,Food & Dining
+2026-03-27,Cafe Coffee Day,561,debit,Food & Dining
+2026-03-28,HP Pump Fuel,515,debit,Transportation
+2026-04-01,Salary - ACME Corp,59000,credit,Income
+2026-04-03,Zomato,332,debit,Food & Dining
+2026-04-03,House Rent,15000,debit,Bills
+2026-04-04,Cafe Coffee Day,518,debit,Food & Dining
+2026-04-05,Car Loan EMI,5000,debit,Debt/EMI
+2026-04-06,Zerodha SIP,5000,debit,Investments
+2026-04-06,HP Pump Fuel,495,debit,Transportation
+2026-04-06,Swiggy,385,debit,Food & Dining
+2026-04-07,Jio Broadband,999,debit,Bills
+2026-04-07,Uber,385,debit,Transportation
+2026-04-08,Netflix,649,debit,Subscriptions
+2026-04-09,Cafe Coffee Day,634,debit,Food & Dining
+2026-04-09,Spotify,119,debit,Subscriptions
+2026-04-09,Flipkart,1918,debit,Shopping
+2026-04-09,Dominos,588,debit,Food & Dining
+2026-04-10,ChatGPT Plus,1700,debit,Subscriptions
+2026-04-11,Cult Gym Membership,1000,debit,Subscriptions
+2026-04-11,Uber,234,debit,Transportation
+2026-04-12,Electricity Board,1850,debit,Bills
+2026-04-12,Cafe Coffee Day,342,debit,Food & Dining
+2026-04-13,Zomato,604,debit,Food & Dining
+2026-04-14,BigBasket Groceries,2700,debit,Food & Dining
+2026-04-16,Cafe Coffee Day,439,debit,Food & Dining
+2026-04-16,Uber,302,debit,Transportation
+2026-04-17,HP Pump Fuel,496,debit,Transportation
+2026-04-17,Dominos,609,debit,Food & Dining
+2026-04-17,Dominos,355,debit,Food & Dining
+2026-04-18,Uber,377,debit,Transportation
+2026-04-20,Uber,219,debit,Transportation
+2026-04-20,Swiggy,316,debit,Food & Dining
+2026-04-23,Swiggy,668,debit,Food & Dining
+2026-04-24,Uber,236,debit,Transportation
+2026-04-24,Uber,134,debit,Transportation
+2026-04-24,Dominos,659,debit,Food & Dining
+2026-04-25,HP Pump Fuel,478,debit,Transportation
+2026-04-26,Myntra,1467,debit,Shopping
+2026-04-26,Uber,242,debit,Transportation
+2026-04-27,Uber,325,debit,Transportation
+2026-04-28,Zomato,594,debit,Food & Dining
+2026-04-28,HP Pump Fuel,483,debit,Transportation
+2026-04-28,Swiggy,636,debit,Food & Dining
+2026-05-01,Salary - ACME Corp,62000,credit,Income
+2026-05-01,Zomato,582,debit,Food & Dining
+2026-05-01,HP Pump Fuel,542,debit,Transportation
+2026-05-01,Uber,248,debit,Transportation
+2026-05-02,Myntra,2338,debit,Shopping
+2026-05-03,House Rent,15000,debit,Bills
+2026-05-03,Swiggy,478,debit,Food & Dining
+2026-05-03,Zomato,332,debit,Food & Dining
+2026-05-04,Uber,389,debit,Transportation
+2026-05-05,Car Loan EMI,5000,debit,Debt/EMI
+2026-05-05,HP Pump Fuel,452,debit,Transportation
+2026-05-06,Zomato,345,debit,Food & Dining
+2026-05-06,Zerodha SIP,5000,debit,Investments
+2026-05-06,Cafe Coffee Day,605,debit,Food & Dining
+2026-05-07,Jio Broadband,999,debit,Bills
+2026-05-07,Uber,269,debit,Transportation
+2026-05-08,Cafe Coffee Day,380,debit,Food & Dining
+2026-05-08,Netflix,649,debit,Subscriptions
+2026-05-09,Spotify,119,debit,Subscriptions
+2026-05-10,ChatGPT Plus,1700,debit,Subscriptions
+2026-05-11,Uber,252,debit,Transportation
+2026-05-11,Zomato,527,debit,Food & Dining
+2026-05-11,Cult Gym Membership,1000,debit,Subscriptions
+2026-05-11,Swiggy,649,debit,Food & Dining
+2026-05-12,Electricity Board,1800,debit,Bills
+2026-05-12,HP Pump Fuel,469,debit,Transportation
+2026-05-13,Cafe Coffee Day,485,debit,Food & Dining
+2026-05-14,Uber,219,debit,Transportation
+2026-05-14,BigBasket Groceries,2900,debit,Food & Dining
+2026-05-15,Zomato,593,debit,Food & Dining
+2026-05-15,Ajio,2193,debit,Shopping
+2026-05-17,Uber,243,debit,Transportation
+2026-05-17,Flipkart,1589,debit,Shopping
+2026-05-18,HP Pump Fuel,520,debit,Transportation
+2026-05-18,Uber,334,debit,Transportation
+2026-05-20,Dominos,508,debit,Food & Dining
+2026-05-20,Apollo Pharmacy,710,debit,Healthcare
+2026-05-20,Swiggy,525,debit,Food & Dining
+2026-05-21,Dominos,609,debit,Food & Dining
+2026-05-24,Swiggy,651,debit,Food & Dining
+2026-05-24,Uber,191,debit,Transportation
+2026-05-25,Uber,420,debit,Transportation
+2026-05-26,Zomato,524,debit,Food & Dining
+2026-05-26,Dominos,466,debit,Food & Dining
+2026-05-27,Cafe Coffee Day,616,debit,Food & Dining
+2026-05-27,Uber,228,debit,Transportation
+2026-06-01,Salary - ACME Corp,65000,credit,Income
+2026-06-01,Zomato,368,debit,Food & Dining
+2026-06-02,Dominos,629,debit,Food & Dining
+2026-06-03,House Rent,15000,debit,Bills
+2026-06-03,Cafe Coffee Day,446,debit,Food & Dining
+2026-06-04,Swiggy,407,debit,Food & Dining
+2026-06-05,Uber,249,debit,Transportation
+2026-06-05,Uber,359,debit,Transportation
+2026-06-05,Cafe Coffee Day,596,debit,Food & Dining
+2026-06-05,Car Loan EMI,5000,debit,Debt/EMI
+2026-06-06,Zerodha SIP,5000,debit,Investments
+2026-06-07,Dominos,301,debit,Food & Dining
+2026-06-07,Myntra,1152,debit,Shopping
+2026-06-07,Jio Broadband,999,debit,Bills
+2026-06-07,Cafe Coffee Day,350,debit,Food & Dining
+2026-06-07,HP Pump Fuel,535,debit,Transportation
+2026-06-08,Dominos,566,debit,Food & Dining
+2026-06-08,Uber,168,debit,Transportation
+2026-06-08,Netflix,649,debit,Subscriptions
+2026-06-09,Spotify,119,debit,Subscriptions
+2026-06-09,Cafe Coffee Day,540,debit,Food & Dining
+2026-06-10,ChatGPT Plus,1700,debit,Subscriptions
+2026-06-10,HP Pump Fuel,550,debit,Transportation
+2026-06-11,Cult Gym Membership,1000,debit,Subscriptions
+2026-06-12,Electricity Board,2100,debit,Bills
+2026-06-13,Myntra,1362,debit,Shopping
+2026-06-14,BigBasket Groceries,3200,debit,Food & Dining
+2026-06-14,HP Pump Fuel,459,debit,Transportation
+2026-06-14,Swiggy,480,debit,Food & Dining
+2026-06-15,Swiggy,669,debit,Food & Dining
+2026-06-15,Dominos,317,debit,Food & Dining
+2026-06-16,Flipkart,1867,debit,Shopping
+2026-06-17,Swiggy,505,debit,Food & Dining
+2026-06-17,Cafe Coffee Day,677,debit,Food & Dining
+2026-06-18,Cafe Coffee Day,539,debit,Food & Dining
+2026-06-20,Zomato,634,debit,Food & Dining
+2026-06-22,Udemy Course,2450,debit,Education
+2026-06-22,HP Pump Fuel,480,debit,Transportation
+2026-06-23,Ajio,1555,debit,Shopping
+2026-06-23,Uber,307,debit,Transportation
+2026-06-24,Swiggy,564,debit,Food & Dining
+2026-06-25,Uber,199,debit,Transportation
+2026-06-25,Swiggy,539,debit,Food & Dining
+2026-06-25,Zomato,591,debit,Food & Dining
+2026-06-27,Flipkart,830,debit,Shopping
+2026-07-01,Dominos,563,debit,Food & Dining
+2026-07-01,Uber,129,debit,Transportation
+2026-07-01,Salary - ACME Corp,68000,credit,Income
+2026-07-02,Zomato,497,debit,Food & Dining
+2026-07-03,Zomato,314,debit,Food & Dining
+2026-07-03,House Rent,15000,debit,Bills
+2026-07-03,Dominos,288,debit,Food & Dining
+2026-07-03,Dominos,289,debit,Food & Dining
+2026-07-03,Swiggy,397,debit,Food & Dining
+2026-07-04,Swiggy,415,debit,Food & Dining
+2026-07-05,Swiggy,549,debit,Food & Dining
+2026-07-05,Cafe Coffee Day,638,debit,Food & Dining
+2026-07-05,Cafe Coffee Day,626,debit,Food & Dining
+2026-07-05,Car Loan EMI,5000,debit,Debt/EMI
+2026-07-06,Dominos,305,debit,Food & Dining
+2026-07-06,HP Pump Fuel,475,debit,Transportation
+2026-07-06,Dominos,666,debit,Food & Dining
+2026-07-06,Zerodha SIP,5000,debit,Investments
+2026-07-07,Jio Broadband,999,debit,Bills
+2026-07-08,Netflix,649,debit,Subscriptions
+2026-07-09,Uber,138,debit,Transportation
+2026-07-09,Spotify,119,debit,Subscriptions
+2026-07-09,Swiggy,512,debit,Food & Dining
+2026-07-09,Uber,297,debit,Transportation
+2026-07-09,Swiggy,678,debit,Food & Dining
+2026-07-10,HP Pump Fuel,517,debit,Transportation
+2026-07-10,HP Pump Fuel,530,debit,Transportation
+2026-07-10,ChatGPT Plus,1700,debit,Subscriptions
+2026-07-11,Cafe Coffee Day,505,debit,Food & Dining
+2026-07-11,Swiggy,422,debit,Food & Dining
+2026-07-11,Cult Gym Membership,1000,debit,Subscriptions
+2026-07-11,Dominos,542,debit,Food & Dining
+2026-07-12,Electricity Board,2400,debit,Bills
+2026-07-14,Dominos,598,debit,Food & Dining
+2026-07-14,BigBasket Groceries,3400,debit,Food & Dining
+2026-07-15,Amazon,1848,debit,Shopping
+2026-07-15,Uber,376,debit,Transportation
+2026-07-17,Ajio,1003,debit,Shopping
+2026-07-21,Swiggy,413,debit,Food & Dining
+2026-07-22,Uber,211,debit,Transportation
+2026-07-23,Swiggy,476,debit,Food & Dining
+2026-07-23,Zomato,336,debit,Food & Dining
+2026-07-24,Uber,378,debit,Transportation
+2026-07-25,HP Pump Fuel,476,debit,Transportation
+2026-07-26,Uber,129,debit,Transportation
+2026-07-27,Dominos,487,debit,Food & Dining
+2026-07-27,Ajio,1844,debit,Shopping
+2026-08-01,Amazon,772,debit,Shopping
+2026-08-01,Swiggy,600,debit,Food & Dining
+2026-08-01,Dominos,435,debit,Food & Dining
+2026-08-01,Salary - ACME Corp,71000,credit,Income
+2026-08-02,Uber,382,debit,Transportation
+2026-08-02,Dominos,391,debit,Food & Dining
+2026-08-03,HP Pump Fuel,524,debit,Transportation
+2026-08-03,House Rent,15000,debit,Bills
+2026-08-05,HP Pump Fuel,534,debit,Transportation
+2026-08-05,Uber,265,debit,Transportation
+2026-08-05,Uber,388,debit,Transportation
+2026-08-05,Car Loan EMI,5000,debit,Debt/EMI
+2026-08-06,Swiggy,323,debit,Food & Dining
+2026-08-06,Zerodha SIP,5000,debit,Investments
+2026-08-07,Jio Broadband,999,debit,Bills
+2026-08-08,Dominos,303,debit,Food & Dining
+2026-08-08,Netflix,649,debit,Subscriptions
+2026-08-09,Spotify,119,debit,Subscriptions
+2026-08-09,Swiggy,353,debit,Food & Dining
+2026-08-09,Cafe Coffee Day,281,debit,Food & Dining
+2026-08-09,Dominos,448,debit,Food & Dining
+2026-08-10,Zomato,397,debit,Food & Dining
+2026-08-10,ChatGPT Plus,1700,debit,Subscriptions
+2026-08-11,Cafe Coffee Day,322,debit,Food & Dining
+2026-08-11,Zomato,641,debit,Food & Dining
+2026-08-11,Cult Gym Membership,1000,debit,Subscriptions
+2026-08-12,Swiggy,346,debit,Food & Dining
+2026-08-12,Electricity Board,2700,debit,Bills
+2026-08-12,Zomato,280,debit,Food & Dining
+2026-08-13,Swiggy,481,debit,Food & Dining
+2026-08-14,BigBasket Groceries,3600,debit,Food & Dining
+2026-08-15,Zomato,360,debit,Food & Dining
+2026-08-16,Dominos,537,debit,Food & Dining
+2026-08-16,Cafe Coffee Day,539,debit,Food & Dining
+2026-08-17,HP Pump Fuel,546,debit,Transportation
+2026-08-17,Swiggy,326,debit,Food & Dining
+2026-08-18,Dominos,405,debit,Food & Dining
+2026-08-20,Apollo Pharmacy,1704,debit,Healthcare
+2026-08-21,Uber,339,debit,Transportation
+2026-08-21,HP Pump Fuel,479,debit,Transportation
+2026-08-21,Zomato,407,debit,Food & Dining
+2026-08-22,Dominos,586,debit,Food & Dining
+2026-08-22,Cafe Coffee Day,539,debit,Food & Dining
+2026-08-24,Uber,373,debit,Transportation
+2026-08-24,Uber,194,debit,Transportation
+2026-08-24,Uber,378,debit,Transportation
+2026-08-24,Zomato,487,debit,Food & Dining
+2026-08-24,Dominos,500,debit,Food & Dining
+2026-08-25,Uber,286,debit,Transportation
+2026-08-25,Uber,378,debit,Transportation
+2026-08-26,Uber,319,debit,Transportation
+2026-08-27,Flipkart,674,debit,Shopping
+2026-09-01,Salary - ACME Corp,74000,credit,Income
+2026-09-01,Flipkart,507,debit,Shopping
+2026-09-02,Zomato,319,debit,Food & Dining
+2026-09-02,Swiggy,600,debit,Food & Dining
+2026-09-03,Cafe Coffee Day,288,debit,Food & Dining
+2026-09-03,Uber,417,debit,Transportation
+2026-09-03,Uber,192,debit,Transportation
+2026-09-03,House Rent,15000,debit,Bills
+2026-09-04,Zomato,439,debit,Food & Dining
+2026-09-05,Car Loan EMI,5000,debit,Debt/EMI
+2026-09-05,Uber,380,debit,Transportation
+2026-09-06,Zerodha SIP,5000,debit,Investments
+2026-09-07,Jio Broadband,999,debit,Bills
+2026-09-07,Uber,227,debit,Transportation
+2026-09-07,Cafe Coffee Day,428,debit,Food & Dining
+2026-09-08,Zomato,398,debit,Food & Dining
+2026-09-08,Netflix,649,debit,Subscriptions
+2026-09-09,Dominos,598,debit,Food & Dining
+2026-09-09,HP Pump Fuel,1600,debit,Transportation
+2026-09-09,Swiggy,634,debit,Food & Dining
+2026-09-09,Uber,177,debit,Transportation
+2026-09-09,Spotify,119,debit,Subscriptions
+2026-09-09,Uber,304,debit,Transportation
+2026-09-09,Swiggy,513,debit,Food & Dining
+2026-09-10,ChatGPT Plus,1700,debit,Subscriptions
+2026-09-10,Cafe Coffee Day,319,debit,Food & Dining
+2026-09-11,Cult Gym Membership,1000,debit,Subscriptions
+2026-09-12,Swiggy,472,debit,Food & Dining
+2026-09-12,Electricity Board,2950,debit,Bills
+2026-09-14,BigBasket Groceries,3900,debit,Food & Dining
+2026-09-15,Cafe Coffee Day,672,debit,Food & Dining
+2026-09-15,HP Pump Fuel,1600,debit,Transportation
+2026-09-16,Swiggy,528,debit,Food & Dining
+2026-09-16,Ajio,1307,debit,Shopping
+2026-09-16,Ajio,1330,debit,Shopping
+2026-09-16,Dominos,672,debit,Food & Dining
+2026-09-17,Swiggy,661,debit,Food & Dining
+2026-09-17,Swiggy,617,debit,Food & Dining
+2026-09-17,HP Pump Fuel,1600,debit,Transportation
+2026-09-18,Zomato,530,debit,Food & Dining
+2026-09-19,Zomato,286,debit,Food & Dining
+2026-09-20,Zomato,449,debit,Food & Dining
+2026-09-22,Udemy Course,3200,debit,Education
+2026-09-23,Dominos,517,debit,Food & Dining
+2026-09-23,Uber,306,debit,Transportation
+2026-09-24,Uber,388,debit,Transportation
+2026-09-24,Cafe Coffee Day,532,debit,Food & Dining
+2026-09-24,Cafe Coffee Day,409,debit,Food & Dining
+2026-09-26,Swiggy,415,debit,Food & Dining
+2026-09-26,Swiggy,663,debit,Food & Dining
+2026-09-27,Cafe Coffee Day,565,debit,Food & Dining
+2026-09-27,HP Pump Fuel,1600,debit,Transportation
+2026-09-28,Cafe Coffee Day,319,debit,Food & Dining
+2026-10-01,Salary - ACME Corp,77000,credit,Income
+2026-10-01,Cafe Coffee Day,563,debit,Food & Dining
+2026-10-01,Dominos,409,debit,Food & Dining
+2026-10-01,Ajio,1284,debit,Shopping
+2026-10-02,Zomato,367,debit,Food & Dining
+2026-10-03,House Rent,15000,debit,Bills
+2026-10-03,Swiggy,654,debit,Food & Dining
+2026-10-04,Dominos,280,debit,Food & Dining
+2026-10-04,Zomato,645,debit,Food & Dining
+2026-10-05,Zomato,416,debit,Food & Dining
+2026-10-05,Car Loan EMI,5000,debit,Debt/EMI
+2026-10-06,Zerodha SIP,5000,debit,Investments
+2026-10-06,Uber,295,debit,Transportation
+2026-10-06,Zomato,318,debit,Food & Dining
+2026-10-07,Jio Broadband,999,debit,Bills
+2026-10-07,Cafe Coffee Day,561,debit,Food & Dining
+2026-10-08,HP Pump Fuel,1600,debit,Transportation
+2026-10-08,Uber,166,debit,Transportation
+2026-10-08,Netflix,649,debit,Subscriptions
+2026-10-09,Swiggy,306,debit,Food & Dining
+2026-10-09,Spotify,119,debit,Subscriptions
+2026-10-09,Myntra,2040,debit,Shopping
+2026-10-10,Dominos,410,debit,Food & Dining
+2026-10-10,ChatGPT Plus,1700,debit,Subscriptions
+2026-10-10,Zomato,493,debit,Food & Dining
+2026-10-11,Cult Gym Membership,1000,debit,Subscriptions
+2026-10-11,Dominos,483,debit,Food & Dining
+2026-10-11,HP Pump Fuel,1600,debit,Transportation
+2026-10-11,Uber,242,debit,Transportation
+2026-10-12,Electricity Board,3300,debit,Bills
+2026-10-12,Swiggy,481,debit,Food & Dining
+2026-10-12,Cafe Coffee Day,441,debit,Food & Dining
+2026-10-12,Uber,252,debit,Transportation
+2026-10-13,Swiggy,464,debit,Food & Dining
+2026-10-14,Cafe Coffee Day,594,debit,Food & Dining
+2026-10-14,Flipkart,1271,debit,Shopping
+2026-10-14,Dominos,377,debit,Food & Dining
+2026-10-14,Dominos,304,debit,Food & Dining
+2026-10-14,Uber,191,debit,Transportation
+2026-10-14,BigBasket Groceries,4100,debit,Food & Dining
+2026-10-15,HP Pump Fuel,1600,debit,Transportation
+2026-10-16,Cafe Coffee Day,341,debit,Food & Dining
+2026-10-16,Cafe Coffee Day,455,debit,Food & Dining
+2026-10-18,Zomato,648,debit,Food & Dining
+2026-10-18,Uber,218,debit,Transportation
+2026-10-18,Uber,166,debit,Transportation
+2026-10-21,Zomato,434,debit,Food & Dining
+2026-10-24,Dominos,487,debit,Food & Dining
+2026-10-25,Dominos,499,debit,Food & Dining
+2026-10-25,HP Pump Fuel,1600,debit,Transportation
+2026-10-25,Zomato,609,debit,Food & Dining
+2026-10-26,Uber,411,debit,Transportation
+2026-10-27,Dominos,605,debit,Food & Dining
+2026-10-28,Dominos,528,debit,Food & Dining
+2026-11-01,Salary - ACME Corp,80000,credit,Income
+2026-11-01,Zomato,535,debit,Food & Dining
+2026-11-01,Swiggy,555,debit,Food & Dining
+2026-11-02,Cafe Coffee Day,643,debit,Food & Dining
+2026-11-02,Cafe Coffee Day,422,debit,Food & Dining
+2026-11-03,HP Pump Fuel,1600,debit,Transportation
+2026-11-03,House Rent,15000,debit,Bills
+2026-11-03,Dominos,548,debit,Food & Dining
+2026-11-05,Zomato,547,debit,Food & Dining
+2026-11-05,Car Loan EMI,5000,debit,Debt/EMI
+2026-11-06,Zerodha SIP,5000,debit,Investments
+2026-11-07,Uber,123,debit,Transportation
+2026-11-07,Jio Broadband,999,debit,Bills
+2026-11-08,Swiggy,394,debit,Food & Dining
+2026-11-08,Netflix,649,debit,Subscriptions
+2026-11-08,Swiggy,490,debit,Food & Dining
+2026-11-08,Netflix,649,debit,Subscriptions
+2026-11-08,Uber,337,debit,Transportation
+2026-11-09,Zomato,476,debit,Food & Dining
+2026-11-09,Zomato,587,debit,Food & Dining
+2026-11-09,Spotify,119,debit,Subscriptions
+2026-11-10,Swiggy,345,debit,Food & Dining
+2026-11-10,ChatGPT Plus,1700,debit,Subscriptions
+2026-11-10,Cafe Coffee Day,422,debit,Food & Dining
+2026-11-11,Cult Gym Membership,1000,debit,Subscriptions
+2026-11-11,Zomato,523,debit,Food & Dining
+2026-11-12,Uber,236,debit,Transportation
+2026-11-12,Electricity Board,3650,debit,Bills
+2026-11-12,Uber,322,debit,Transportation
+2026-11-13,Cafe Coffee Day,509,debit,Food & Dining
+2026-11-13,Cafe Coffee Day,501,debit,Food & Dining
+2026-11-14,HP Pump Fuel,1600,debit,Transportation
+2026-11-14,BigBasket Groceries,4300,debit,Food & Dining
+2026-11-15,Flipkart,1042,debit,Shopping
+2026-11-16,Flipkart,1138,debit,Shopping
+2026-11-16,Swiggy,317,debit,Food & Dining
+2026-11-16,Uber,137,debit,Transportation
+2026-11-17,Zomato,560,debit,Food & Dining
+2026-11-18,Swiggy,280,debit,Food & Dining
+2026-11-19,Zomato,478,debit,Food & Dining
+2026-11-19,Dominos,344,debit,Food & Dining
+2026-11-19,Swiggy,610,debit,Food & Dining
+2026-11-20,Apollo Pharmacy,1004,debit,Healthcare
+2026-11-21,Cafe Coffee Day,637,debit,Food & Dining
+2026-11-21,Dominos,550,debit,Food & Dining
+2026-11-21,HP Pump Fuel,1600,debit,Transportation
+2026-11-22,HP Pump Fuel,1600,debit,Transportation
+2026-11-22,Swiggy,649,debit,Food & Dining
+2026-11-22,Zomato,327,debit,Food & Dining
+2026-11-23,Uber,335,debit,Transportation
+2026-11-23,Dominos,308,debit,Food & Dining
+2026-11-23,Dominos,345,debit,Food & Dining
+2026-11-23,Cafe Coffee Day,323,debit,Food & Dining
+2026-11-23,Uber,293,debit,Transportation
+2026-11-24,Amazon,920,debit,Shopping
+2026-11-25,Swiggy,330,debit,Food & Dining
+2026-11-25,Flipkart,972,debit,Shopping
+2026-11-25,Cafe Coffee Day,580,debit,Food & Dining
+2026-11-26,Zomato,399,debit,Food & Dining
+2026-12-01,Salary - ACME Corp,83000,credit,Income
+2026-12-03,Amazon,1486,debit,Shopping
+2026-12-03,Swiggy,411,debit,Food & Dining
+2026-12-03,Swiggy,641,debit,Food & Dining
+2026-12-03,House Rent,15000,debit,Bills
+2026-12-04,Swiggy,320,debit,Food & Dining
+2026-12-04,Cafe Coffee Day,592,debit,Food & Dining
+2026-12-05,Car Loan EMI,5000,debit,Debt/EMI
+2026-12-05,Uber,374,debit,Transportation
+2026-12-05,Cafe Coffee Day,306,debit,Food & Dining
+2026-12-05,Cafe Coffee Day,307,debit,Food & Dining
+2026-12-06,Dominos,377,debit,Food & Dining
+2026-12-06,Flipkart,1335,debit,Shopping
+2026-12-06,Cafe Coffee Day,296,debit,Food & Dining
+2026-12-06,Zerodha SIP,5000,debit,Investments
+2026-12-06,Zomato,528,debit,Food & Dining
+2026-12-06,Uber,124,debit,Transportation
+2026-12-07,Jio Broadband,999,debit,Bills
+2026-12-07,Swiggy,590,debit,Food & Dining
+2026-12-07,Ajio,2041,debit,Shopping
+2026-12-07,Swiggy,585,debit,Food & Dining
+2026-12-08,Netflix,649,debit,Subscriptions
+2026-12-09,Spotify,119,debit,Subscriptions
+2026-12-09,Swiggy,459,debit,Food & Dining
+2026-12-10,Swiggy,649,debit,Food & Dining
+2026-12-10,ChatGPT Plus,1700,debit,Subscriptions
+2026-12-10,Cafe Coffee Day,471,debit,Food & Dining
+2026-12-11,Cafe Coffee Day,366,debit,Food & Dining
+2026-12-11,Swiggy,320,debit,Food & Dining
+2026-12-11,Swiggy,414,debit,Food & Dining
+2026-12-11,Dominos,419,debit,Food & Dining
+2026-12-11,Dominos,657,debit,Food & Dining
+2026-12-11,Cult Gym Membership,1000,debit,Subscriptions
+2026-12-11,Uber,283,debit,Transportation
+2026-12-12,Amazon,1548,debit,Shopping
+2026-12-12,Dominos,501,debit,Food & Dining
+2026-12-12,Electricity Board,4200,debit,Bills
+2026-12-13,Cafe Coffee Day,644,debit,Food & Dining
+2026-12-13,Swiggy,517,debit,Food & Dining
+2026-12-14,Zomato,600,debit,Food & Dining
+2026-12-14,Swiggy,567,debit,Food & Dining
+2026-12-14,BigBasket Groceries,4700,debit,Food & Dining
+2026-12-14,Swiggy,584,debit,Food & Dining
+2026-12-14,Uber,372,debit,Transportation
+2026-12-15,HP Pump Fuel,1600,debit,Transportation
+2026-12-16,Swiggy,603,debit,Food & Dining
+2026-12-16,Zomato,470,debit,Food & Dining
+2026-12-16,HP Pump Fuel,1600,debit,Transportation
+2026-12-18,Cafe Coffee Day,378,debit,Food & Dining
+2026-12-18,Bank Card Duplicate,1999,debit,Subscriptions
+2026-12-18,Myntra,829,debit,Shopping
+2026-12-19,Electricity Board - Duplicate,4200,debit,Bills
+2026-12-20,Uber,240,debit,Transportation
+2026-12-21,XYZ TRADING UNKNOWN,48000,debit,Others
+2026-12-22,Udemy Course,3950,debit,Education
+2026-12-23,HP Pump Fuel,1600,debit,Transportation
+2026-12-23,Swiggy,374,debit,Food & Dining
+2026-12-24,Dominos,421,debit,Food & Dining
+2026-12-25,HP Pump Fuel,1600,debit,Transportation
+2026-12-25,Swiggy,292,debit,Food & Dining
+2026-12-25,Zomato,474,debit,Food & Dining
+2026-12-25,Cafe Coffee Day,300,debit,Food & Dining
+2026-12-26,Uber,275,debit,Transportation
+2026-12-26,Uber,248,debit,Transportation
+2026-12-27,Uber,197,debit,Transportation
+2026-12-27,Zomato,334,debit,Food & Dining
